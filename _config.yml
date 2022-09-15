@@ -1,10 +1,10 @@
-title: "MyThirdBlog"
+title: "My Blog"
 author: "Umesh Rao"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "This will have all the blog assignments." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+email: "urao@ncsu.edu"
 #twitter_username: "twitteruser"
 github_username: "umeshrrao"
 #linkedin_username: "linkedinuser"
