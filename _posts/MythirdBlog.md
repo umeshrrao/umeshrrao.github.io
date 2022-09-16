@@ -7,4 +7,4 @@ We also learnt how to read a file in a fucntion and also how to pass variables a
 # What you would do differently
 A lot of manipulation could be done using different functions. I  could have seperated the state and county data while reading the csv file. I could have used a different function to format a particular variable. The plots could have been of different kind
 # Link to the final document.
-Here is the [link](https://github.com/umeshrrao/umeshrrao.github.io/blob/main/RaoProject1.html) to the final HTML output file
+Here is the [link](https://umeshrrao.github.io/RaoProject1.html) to the final HTML output file
