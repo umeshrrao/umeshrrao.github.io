@@ -1,3 +1,4 @@
+# Vignette Project
 # Purpose of the Project
 The purpose of the project was to collaborate to pull data using an API call to spoonacular to get food data . In this project we created multiple functionsqueried the spoonacular website using the APoonacular API, which involved reading enrollment data for different states and counties.The data was in csv files. we used read_csv function to in the data in a tibble.
 We gave an option to pull the recipes for a particular cuisine(which can be passed as an argument) and then used the recipe id to pull the nutrient content for the particular recipe. We further took that data and ran an exploratory data analysis by creating new variables and creating summaries. The data which was pulled didn't have categorical variables so we created those. Finally we were able to take the data and do anlysis using various plots
