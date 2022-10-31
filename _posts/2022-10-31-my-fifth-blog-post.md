@@ -26,4 +26,4 @@ Multiple linear regression (MLR), also known simply as multiple regression, is a
 ## Summary
 It is extremely important to include appropriate variables in prediction modelling, as model’s performance largely depends on which variables are ultimately included in the model. Failure to include the proper variables in the model provides inaccurate results, and the model will fail to capture the true relation that exists in the data between the outcome and the selected variables. 
 In my opnion all the listed methods should be tested on a training dataset and applied to the test dataset. Out of all models the best model should be selected.
-Ideally for me the model with the least square regression is the best model fit.
+Ideally for me the model with the least square regression is the best model fit for a linear regression and use AIC performance metric for logistic regression.
