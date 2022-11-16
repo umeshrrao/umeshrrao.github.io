@@ -1,4 +1,4 @@
-# online news Popularity
+# Online news Popularity
 The purpose of the project was to collaborate to  read in and analyze an online news popularity data set.We had to subset the data by data_channel_is_* (one of six groups). We then summarized the data and  predicted the number of shares using predictive models. We also created a lot of summarization graphs
 # what would you do differently?
 We counld have created custom functions to do the automations instead of using the params feature of the markdown.
