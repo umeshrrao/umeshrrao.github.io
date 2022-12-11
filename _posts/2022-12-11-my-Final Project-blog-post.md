@@ -65,3 +65,7 @@ The user can Scroll through the data set.Subset this data set (rows and columns)
 # Use the following code to run the app
 
 shiny::runGitHub('umeshrrao/FinalProject')
+
+# the app.R code can be seen at
+https://github.com/umeshrrao/FinalProject
+
